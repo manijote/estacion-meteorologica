@@ -1,2 +1,5 @@
-# estaci-n-meteorol-gica
-Práctica 2 de Equipos e Instrumentación Electrónica de la UNIR.
+# Estación Meteorológica Arduino UNO + Wokwi
+
+## 📋 Descripción
+
+Proyecto de simulación de una estación meteorológica basada en Arduino UNO desarrollado para la asignatura **Equipos e Instrumentación Electrónica**.
