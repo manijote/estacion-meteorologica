@@ -80,11 +80,10 @@ El sistema muestra en la pantalla LCD:
 
 ## 📌 Autores
 
-**
-Gonzalo Caballero Lora
-Marta González Alonso
-Álvaro Lax Gómez
-Álvaro Rangel Belmonte 
-**
+- Gonzalo Caballero Lora
+- Marta González Alonso
+- Álvaro Lax Gómez
+- Álvaro Rangel Belmonte 
+
 Asignatura: **Equipos e Instrumentación Electrónica**  
 Curso 2024/2025
