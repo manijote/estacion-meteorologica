@@ -34,7 +34,7 @@ Para ello, utiliza un algoritmo de control de tres posiciones con zona muerta pa
 
 Diagrama del circuito:
 
-![](images\diagram.jpg)
+![Diagrama](images\diagram.jpg)
 
 ## Código fuente
 
